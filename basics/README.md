@@ -1,0 +1,1 @@
+scipt 0 / pwd affiche le chemin actuel
