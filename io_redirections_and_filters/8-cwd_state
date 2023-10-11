@@ -1,2 +1,2 @@
 #!/bin/bash
-eco ls -la > ls_cwd_content
+eco "ls -la" > ls_cwd_content
