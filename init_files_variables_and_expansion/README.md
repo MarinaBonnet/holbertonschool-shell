@@ -1,1 +1,2 @@
-expension et vaiables
+#!/bin/bash
+expension et variable
