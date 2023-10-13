@@ -1,2 +1,2 @@
-#!/bin/bash
+README 
 expension et variable
