@@ -1,2 +1,2 @@
 README 
-expensions et variable
+expansions et variables
